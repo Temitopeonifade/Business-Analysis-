@@ -50,6 +50,7 @@ The dashboard shows that the business is growing steadily and remains profitable
 
 
 Author
+
 Rofiat Temitope Onifade
 
 *This project was created as part of my data analytics portfolio to demonstrate my ability to turn business data into meaningful insights through clear and interactive reporting.*
